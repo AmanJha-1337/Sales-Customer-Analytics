@@ -251,7 +251,7 @@ For every query, focus on three questions:
 
 ---
 
-## Project Goal
+## Project Objective
 
 The goal of this project is to demonstrate that I can go beyond writing SQL syntax and use SQL to perform **structured, business-focused data analysis**.
 
